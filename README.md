@@ -13,7 +13,7 @@ change npm install account to Administrator
 * Support [CoffeeScript](http://coffeescript.org/), [RequireJS](http://requirejs.org/), [Compass](http://compass-style.org/), html minification (via [htmlcompressor](http://code.google.com/p/htmlcompressor/)).
 * A lightweight web server listen to 4000 port (Using [Node Express Framework](http://expressjs.com/)).
 * Support JavaScript Task Runner [GruntJS](http://gruntjs.com/).
-* Support JavaScript test framework [Mocha](http://visionmedia.github.io/mocha/).
+* Support JavaScript test framework [Mocha](http://mochajs.org/).
 * Support documentation generator [Docco](http://jashkenas.github.io/docco/).
 * Support streaming build system [Gulp](http://gulpjs.com/).
 * Support [Terminal in Chrome Devtools](http://www.html5rocks.com/en/tutorials/developertools/devtools-terminal/).
